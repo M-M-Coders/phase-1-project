@@ -1,0 +1,21 @@
+{
+    "decor":[{
+        "id": "",
+        "name": "",
+        "price":"",
+        "description":"",
+        "image":"",
+        "capacity":"",
+        "pieces_bought":""
+    },
+    {
+        "id": "",
+        "name": "",
+        "price":"",
+        "description":"",
+        "image":"",
+        "capacity":"",
+        "pieces_bought":""
+    }
+]
+}
