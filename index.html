@@ -7,29 +7,29 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <div id="container">
-    <div id="orders">
-        <tr>
-            <td class="odas">Orders</td><br>
-            <td class="pay">To Pay</td>
-            <td class="ship">To ship</td>
-            <td class="shipped">Shipped</td>
-            <td class="review">To Review</td>
-        </tr><br>
-        <tr>
-            <td class="pays">Payments & Discounts</td><br>
-            <td class="card">Cards</td>
-            <td class="coupons">Coupons</td>
-            <td class="discounts"> Discounts</td>
-        </tr><br>
-        <tr>
-            <td class="services">Services</td><br>
-            <td class="help">Help Center</td>
-            <td class="suggestion">Suggestion</td>
-            <td class="?">Q&A</td>
+    <table>
+        <tr id="heads">
+            <th id="gh">My Orders</th>
+            <th id="gh">Payments & Discounts</th>
+            <th id="gh">Services</th>
         </tr>
-
-    </div>
-    <div id="decor">
+        <tr>
+            <td id="ab">To Pay</td>
+            <td id="cd">Cards</td>
+            <td id="ef">Help Center</td>
+        </tr>
+        <tr>
+            <td id="ab">To ship</td>
+            <td id="cd">Coupons</td>
+            <td id="ef">Suggestions</td>
+        </tr>
+        <tr>
+            <td id="ab">Shipped</td>
+            <td id="cd">Discounts</td>
+            <td id="ef">Q&A</td>
+        </tr>
+    </table>
+   <div id="decor">
         <h1 id="name">Title:`${name}`</h1>
         <img id="image" `${image}` alt="`${name}`">
         <p class="hd">Price (dollars):</p>
