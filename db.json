@@ -1,21 +1,197 @@
 {
-    "decor":[{
-        "id": "",
-        "name": "",
-        "price":"",
-        "description":"",
-        "image":"",
-        "capacity":"",
-        "pieces_bought":""
-    },
-    {
-        "id": "",
-        "name": "",
-        "price":"",
-        "description":"",
-        "image":"",
-        "capacity":"",
-        "pieces_bought":""
-    }
-]
-}
+    "decors": [
+      {
+        "id":1,
+        "name": "Elegant Vase",
+        "description": "A decorative ceramic vase with intricate patterns.",
+        "material": "Ceramic",
+        "color": "Blue and White",
+        "dimensions": {
+          "height": "12 inches",
+          "diameter": "6 inches"
+        },
+        "price": 25.99,
+        "in_stock": true
+      },
+      {
+        "id":2,
+        "name": "Antique Clock",
+        "description": "A vintage-style wooden clock with Roman numerals.",
+        "material": "Wood",
+        "color": "Mahogany",
+        "dimensions": {
+          "height": "16 inches",
+          "width": "10 inches"
+        },
+        "price": 49.99,
+        "in_stock": true
+      },
+      {
+        "id":3,
+        "name": "Modern Wall Art",
+        "description": "Abstract canvas painting with vibrant colors.",
+        "material": "Canvas",
+        "color": "Multi-color",
+        "dimensions": {
+          "height": "24 inches",
+          "width": "36 inches"
+        },
+        "price": 79.99,
+        "in_stock": true
+      },
+      {
+        "id":4,
+        "name": "Crystal Chandelier",
+        "description": "A luxurious crystal chandelier with multiple tiers.",
+        "material": "Crystal",
+        "color": "Clear",
+        "dimensions": {
+          "height": "24 inches",
+          "diameter": "18 inches"
+        },
+        "price": 199.99,
+        "in_stock": false
+      },
+      {
+        "id":5,
+        "name": "Rustic Wall Shelves",
+        "description": "Set of wooden shelves for a rustic look.",
+        "material": "Wood",
+        "color": "Weathered Brown",
+        "dimensions": {
+          "length": "36 inches",
+          "depth": "6 inches"
+        },
+        "price": 39.99,
+        "in_stock": true
+      },
+      {
+        "id":6,
+        "name": "Glass Mosaic Mirror",
+        "description": "A mirror framed with colorful glass mosaic tiles.",
+        "material": "Glass",
+        "color": "Multi-color",
+        "dimensions": {
+          "height": "20 inches",
+          "width": "20 inches"
+        },
+        "price": 34.99,
+        "in_stock": true
+      },
+      {
+        "id":7,
+        "name": "Candle Holder Set",
+        "description": "Set of three metal candle holders in various heights.",
+        "material": "Metal",
+        "color": "Black",
+        "dimensions": {
+          "tallest height": "12 inches"
+        },
+        "price": 19.99,
+        "in_stock": true
+      },
+      {
+        "id":8,
+        "name": "Silk Throw Pillows",
+        "description": "Set of two silk throw pillows with embroidered designs.",
+        "material": "Silk",
+        "color": "Gold",
+        "dimensions": {
+          "width": "18 inches",
+          "height": "18 inches"
+        },
+        "price": 29.99,
+        "in_stock": true
+      },
+      {
+        "id":9,
+        "name": "Decorative Pottery Bowl",
+        "description": "A hand-painted pottery bowl with intricate patterns.",
+        "material": "Pottery",
+        "color": "Earthenware",
+        "dimensions": {
+          "diameter": "10 inches"
+        },
+        "price": 15.99,
+        "in_stock": true
+      },
+      {
+        "id":10,
+        "name": "Metal Wall Sculpture",
+        "description": "Abstract metal wall sculpture with a unique design.",
+        "material": "Metal",
+        "color": "Bronze",
+        "dimensions": {
+          "height": "24 inches",
+          "width": "36 inches"
+        },
+        "price": 69.99,
+        "in_stock": true
+      },
+      {
+        "id":11,
+        "name": "Velvet Throw Blanket",
+        "description": "Soft velvet throw blanket in a deep purple color.",
+        "material": "Velvet",
+        "color": "Purple",
+        "dimensions": {
+          "width": "50 inches",
+          "length": "60 inches"
+        },
+        "price": 27.99,
+        "in_stock": true
+      },
+      {
+        "id":12,
+        "name": "Terrarium with Succulents",
+        "description": "Glass terrarium with a variety of succulent plants.",
+        "material": "Glass",
+        "color": "Clear",
+        "dimensions": {
+          "height": "12 inches",
+          "diameter": "8 inches"
+        },
+        "price": 45.99,
+        "in_stock": true
+      },
+      {
+        "id":13,
+        "name": "Metallic Table Lamp",
+        "description": "Modern table lamp with a metallic finish and fabric shade.",
+        "material": "Metal",
+        "color": "Silver",
+        "dimensions": {
+          "height": "22 inches"
+        },
+        "price": 59.99,
+        "in_stock": true
+      },
+      {
+        "id":14,
+        "name": "Woven Basket Set",
+        "description": "Set of three woven baskets for storage and decor.",
+        "material": "Wicker",
+        "color": "Natural Brown",
+        "dimensions": {
+          "largest width": "18 inches",
+          "depth": "12 inches"
+        },
+        "price": 37.99,
+        "in_stock": true
+      },
+      {
+        "id":15,
+        "name": "Framed Wall Art Print",
+        "description": "Framed art print of a scenic landscape.",
+        "material": "Paper",
+        "color": "Colorful",
+        "dimensions": {
+          "height": "20 inches",
+          "width": "30 inches"
+        },
+        "price": 22.99,
+        "in_stock": true
+      }
+    ]
+  }
+  
