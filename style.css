@@ -1,45 +1,142 @@
+/* Reset some default browser styles */
+body, h1, p, table, th, td, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 table {
     border-collapse: collapse;
     width: 50%;
-    margin: 0 auto; 
-} 
+    margin: 0 auto;
+    border: 1px solid #ffffff;
+}
 
 th, td {
     border: 1px solid #ffffff;
     padding: 10px;
     text-align: center;
 }
-th{
+
+th {
     text-decoration-line: underline;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
 }
 
-    /* Your CSS styles go here */
-    .dropdown {
-        position: relative;
-        display: inline-block;
-    }
+.dropdown {
+    position: relative;
+}
 
-    .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #f9f9f9;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
 
-    .dropdown:hover .dropdown-content {
-        display: block;
-    }
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 
-    .dropdown-content a {
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-        color: #B98D72;
-    }
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: #B98D72;
+}
 
-    .dropdown-content a:hover {
-        background-color: #57233A;
-    }
+.dropdown-content a:hover {
+    background-color: #57233A;
+}
 
+#decor {
+    margin-top: 20px;
+}
+
+#name {
+    font-size: 24px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+.hd {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#price {
+    color: #FF5733;
+}
+
+#description {
+    font-style: italic;
+}
+
+#color, #material {
+    color: #333;
+}
+
+#height, #width {
+    font-weight: bold;
+}
+
+#btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#buy-form {
+    margin-top: 20px;
+}
+
+#buy {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(236, 66, 95);
+}
+#title {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+  
