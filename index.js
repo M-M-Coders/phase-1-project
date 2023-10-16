@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
           const addButton = decorContainer.querySelector('#btn');
           addButton.addEventListener('click', function () {
             addButton.innerHTML = "Added To Cart";
+            alert("Item added to cart!");
           });
 
           // Add submit event listener to the form within this loop
