@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // fetch data from db.json
   function fetchDecorPieces() {
-    fetch("https://decorniceway.onrender.com/decors")
+    fetch(" http://localhost:3000/decors")
       .then((response) => response.json())
       .then((decors) => {
         decors.forEach((decor) => {
@@ -26,7 +26,8 @@ document.addEventListener('DOMContentLoaded', function () {
             <p class="hd">Description: ${decor.description}</p>
             <p class="hd">Color: ${decor.color}</p>
             <p class="hd">Material: ${decor.material}</p>
-            <p class="hd">Reviews:${decor.reviews}</p>
+            <p class="hd">User:${decor.reviews.user}</p>
+            <p class="hd">comment:${decor.reviews.comment}</p>
             <p class="hd">Height : ${decor.dimensions.height}</p>
             <p class="hd">Width: ${decor.dimensions.width}</p>
             <p class="hd">Diameter: ${decor.dimensions.diameter}</p>

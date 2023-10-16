@@ -2,18 +2,22 @@
     "decors": [
       {
         "id":1,
-        "name": "Elegant Vase",
-        "image":"https://img.freepik.com/free-vector/watercolor-floral-arrangement-collection-generative-ai_191095-417.jpg?size=626&ext=jpg",
-        "description": "A decorative ceramic vase with intricate patterns.",
-        "material": "Ceramic",
-        "color": "Blue and White",
-        "reviews":"This is very beautiful",
-        "dimensions": {
-          "height": "12 inches",
-          "diameter": "6 inches"
+        "name": "Crystal Chandelier",
+        "image":"https://img.freepik.com/free-photo/ceiling-lamps_1203-791.jpg?w=740&t=st=1697055388~exp=1697055988~hmac=498e6755724b228cba42d3a0667fdbd1aaa8b83c5584b6e4f1fa50f15b3fa5c2",
+        "description": "A luxurious crystal chandelier with multiple tiers.",
+        "material": "Crystal",
+        "color": "Clear",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
         },
-        "price": 25.99,
-        "in_stock": true
+        "dimensions": {
+          "height": "24 inches",
+          "diameter": "18 inches"
+        },
+        "price": 199.99,
+        "in_stock": 50
       },
       {
         "id":2,
@@ -22,13 +26,17 @@
         "description": "A vintage-style wooden clock with Roman numerals.",
         "material": "Wood",
         "color": "Mahogany",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "16 inches",
           "width": "10 inches"
         },
         "price": 49.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":3,
@@ -37,28 +45,36 @@
         "description": "Abstract canvas painting with vibrant colors.",
         "material": "Canvas",
         "color": "Multi-color",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "24 inches",
           "width": "36 inches"
         },
         "price": 79.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":4,
-        "name": "Crystal Chandelier",
-        "image":"https://img.freepik.com/free-photo/ceiling-lamps_1203-791.jpg?w=740&t=st=1697055388~exp=1697055988~hmac=498e6755724b228cba42d3a0667fdbd1aaa8b83c5584b6e4f1fa50f15b3fa5c2",
-        "description": "A luxurious crystal chandelier with multiple tiers.",
-        "material": "Crystal",
-        "color": "Clear",
-        "reviews":"This is very beautiful",
-        "dimensions": {
-          "height": "24 inches",
-          "diameter": "18 inches"
+        "name": "Elegant Vase",
+        "image":"https://img.freepik.com/free-vector/watercolor-floral-arrangement-collection-generative-ai_191095-417.jpg?size=626&ext=jpg",
+        "description": "A decorative ceramic vase with intricate patterns.",
+        "material": "Ceramic",
+        "color": "Blue and White",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
         },
-        "price": 199.99,
-        "in_stock": false
+        "dimensions": {
+          "height": "12 inches",
+          "diameter": "6 inches"
+        },
+        "price": 25.99,
+        "in_stock": 50
       },
       {
         "id":5,
@@ -67,13 +83,17 @@
         "description": "Set of wooden shelves for a rustic look.",
         "material": "Wood",
         "color": "Weathered Brown",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "length": "36 inches",
           "depth": "6 inches"
         },
         "price": 39.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":6,
@@ -82,13 +102,17 @@
         "description": "A mirror framed with colorful glass mosaic tiles.",
         "material": "Glass",
         "color": "Multi-color",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "20 inches",
           "width": "20 inches"
         },
         "price": 34.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":7,
@@ -97,12 +121,16 @@
         "description": "metal candle holders in various heights.",
         "material": "Metal",
         "color": "Black",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "tallest height": "12 inches"
         },
         "price": 19.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":8,
@@ -111,13 +139,17 @@
         "description": "Set of silk throw pillows with embroidered designs.",
         "material": "Silk",
         "color": "Gold",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "width": "18 inches",
           "height": "18 inches"
         },
         "price": 29.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":9,
@@ -126,12 +158,16 @@
         "description": "A hand-painted pottery bowl with intricate patterns.",
         "material": "Pottery",
         "color": "Earthenware",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "diameter": "10 inches"
         },
         "price": 15.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":10,
@@ -140,13 +176,17 @@
         "description": "Abstract metal wall sculpture with a unique design.",
         "material": "Metal",
         "color": "Bronze",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "24 inches",
           "width": "36 inches"
         },
         "price": 69.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":11,
@@ -155,13 +195,17 @@
         "description": "Soft velvet throw blanket in a deep purple color.",
         "material": "Velvet",
         "color": "Purple",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "width": "50 inches",
           "length": "60 inches"
         },
         "price": 27.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":12,
@@ -170,13 +214,17 @@
         "description": "Glass terrarium with a variety of succulent plants.",
         "material": "Glass",
         "color": "Clear",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "12 inches",
           "diameter": "8 inches"
         },
         "price": 45.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":13,
@@ -185,12 +233,16 @@
         "description": "Modern table lamp with a metallic finish and fabric shade.",
         "material": "Metal",
         "color": "Silver",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "22 inches"
         },
         "price": 59.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":14,
@@ -199,13 +251,17 @@
         "description": "woven baskets for storage and decor.",
         "material": "Wicker",
         "color": "Natural Brown",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "largest width": "18 inches",
           "depth": "12 inches"
         },
         "price": 37.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":15,
@@ -214,13 +270,17 @@
         "description": "Framed art print of a scenic landscape.",
         "material": "Paper",
         "color": "Colorful",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "20 inches",
           "width": "30 inches"
         },
         "price": 22.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":16,
@@ -229,13 +289,17 @@
         "description": "Abstract metal wall sculpture with a unique design.",
         "material": "Metal",
         "color": "Bronze",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "height": "24 inches",
           "width": "36 inches"
         },
         "price": 69.99,
-        "in_stock": true
+        "in_stock": 50
       },
       {
         "id":17,
@@ -244,12 +308,16 @@
         "description": "A hand-painted pottery bowl with intricate patterns.",
         "material": "Pottery",
         "color": "Earthenware",
-        "reviews":"This is very beautiful",
+        "reviews":
+        {
+          "user":"mary",
+          "comment":"This is very beautiful"
+        },
         "dimensions": {
           "diameter": "10 inches"
         },
         "price": 15.99,
-        "in_stock": true
+        "in_stock": 50
       }
     ]
   }
