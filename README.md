@@ -4,13 +4,8 @@
 **
 ## Project Description
 I have displayed my hand  skills on fetching data form API's,and also used javaScript to add functionality to my code to make a simple liquor store website.
-**
-
-## SCREENSHOTS
-![Screenshot from 2023-10-14 21-17-21](https://github.com/eceechain/Ecee-liquorStore/assets/144310680/bbe4df89-8d42-47a1-a5c5-d20b6f533963)
-
-
 ****
+
 ### Requirements
 * [HTML](html.com)
 * [css](Framework URL)
@@ -36,9 +31,7 @@ I have displayed my hand  skills on fetching data form API's,and also used javaS
 > Run using live server
 > use the live link
 ***
-## Live Link
-Or you can access the web application directly via this : https://eceechain.github.io/Ecee-liquorStore/
-***
+
 ## Dependencies
 - Google fonts
 - Font awesome Icons
