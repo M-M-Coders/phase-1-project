@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <p class="hd">Material: ${decor.material}</p>
             <p class="hd">User:${decor.reviews.user}</p>
             <p class="hd">comment:${decor.reviews.comment}</p>
+            <p class="hd">Ratings:${decor.reviews.ratings}</p>
             <p class="hd">Height : ${decor.dimensions.height}</p>
             <p class="hd">Width: ${decor.dimensions.width}</p>
             <p class="hd">Diameter: ${decor.dimensions.diameter}</p>
