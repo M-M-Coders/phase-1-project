@@ -9,7 +9,7 @@
         "color": "Clear",
         "reviews":
         {
-          "user":"mary",
+          "user":"Vivian",
           "comment":"This is very beautiful",
           "ratings":"5"
         },
@@ -30,8 +30,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "comment":"It is ticking nicely",
+          "ratings":"4.5"
         },
         "dimensions": {
           "height": "16 inches",
@@ -49,8 +49,8 @@
         "color": "Multi-color",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Eugene",
+          "comment":"This is a nice work of work",
           "ratings":"5"
         },
         "dimensions": {
@@ -70,8 +70,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "comment":"This is very brittle",
+          "ratings":"4"
         },
         "dimensions": {
           "height": "12 inches",
@@ -89,9 +89,9 @@
         "color": "Weathered Brown",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "user":"Mad max",
+          "comment":"This is hard wood",
+          "ratings":"4"
         },
         "dimensions": {
           "length": "36 inches",
@@ -109,8 +109,8 @@
         "color": "Multi-color",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Mercy",
+          "comment":"colorful",
           "ratings":"5"
         },
         "dimensions": {
@@ -129,9 +129,9 @@
         "color": "Black",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "user":"Dan",
+          "comment":"It only holds one candle",
+          "ratings":"3"
         },
         "dimensions": {
           "tallest height": "12 inches"
@@ -148,8 +148,8 @@
         "color": "Gold",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Shee",
+          "comment":"Very fluffy and silky",
           "ratings":"5"
         },
         "dimensions": {
@@ -168,8 +168,8 @@
         "color": "Earthenware",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Valeria",
+          "comment":"Adds beauty to my home",
           "ratings":"5"
         },
         "dimensions": {
@@ -187,9 +187,9 @@
         "color": "Bronze",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "user":"Rasmi Noel",
+          "comment":"This was expensive",
+          "ratings":"4"
         },
         "dimensions": {
           "height": "24 inches",
@@ -207,8 +207,8 @@
         "color": "Purple",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Ivy",
+          "comment":"This is very pretty",
           "ratings":"5"
         },
         "dimensions": {
@@ -227,8 +227,8 @@
         "color": "Clear",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Eleven",
+          "comment":"Aesthetic !!",
           "ratings":"5"
         },
         "dimensions": {
@@ -247,9 +247,9 @@
         "color": "Silver",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "user":"Claire",
+          "comment":"This is not that beautiful",
+          "ratings":"4"
         },
         "dimensions": {
           "height": "22 inches"
@@ -266,8 +266,8 @@
         "color": "Natural Brown",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Stace",
+          "comment":"Nicely wooven",
           "ratings":"5"
         },
         "dimensions": {
@@ -286,8 +286,8 @@
         "color": "Colorful",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Dennis the Mennis",
+          "comment":"Artistically put together",
           "ratings":"5"
         },
         "dimensions": {
@@ -306,9 +306,9 @@
         "color": "Bronze",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
-          "ratings":"5"
+          "user":"Yvonne",
+          "comment":"well smelt",
+          "ratings":"4.5"
         },
         "dimensions": {
           "height": "24 inches",
@@ -326,8 +326,8 @@
         "color": "Earthenware",
         "reviews":
         {
-          "user":"mary",
-          "comment":"This is very beautiful",
+          "user":"Gracie",
+          "comment":"I needed this",
           "ratings":"5"
         },
         "dimensions": {
