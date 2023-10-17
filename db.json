@@ -2,66 +2,6 @@
     "decors": [
       {
         "id":1,
-        "name": "Crystal Chandelier",
-        "image":"https://img.freepik.com/free-photo/ceiling-lamps_1203-791.jpg?w=740&t=st=1697055388~exp=1697055988~hmac=498e6755724b228cba42d3a0667fdbd1aaa8b83c5584b6e4f1fa50f15b3fa5c2",
-        "description": "A luxurious crystal chandelier with multiple tiers.",
-        "material": "Crystal",
-        "color": "Clear",
-        "reviews":
-        {
-          "user":"Vivian",
-          "comment":"This is very beautiful",
-          "ratings":"5"
-        },
-        "dimensions": {
-          "height": "24 inches",
-          "diameter": "18 inches"
-        },
-        "price": 199.99,
-        "in_stock": 50
-      },
-      {
-        "id":2,
-        "name": "Antique Clock",
-        "image":"https://img.freepik.com/premium-photo/metallic-frame-with-vintage-machine-gears-cogwheel_948265-11215.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "A vintage-style wooden clock with Roman numerals.",
-        "material": "Wood",
-        "color": "Mahogany",
-        "reviews":
-        {
-          "user":"mary",
-          "comment":"It is ticking nicely",
-          "ratings":"4.5"
-        },
-        "dimensions": {
-          "height": "16 inches",
-          "width": "10 inches"
-        },
-        "price": 49.99,
-        "in_stock": 50
-      },
-      {
-        "id":3,
-        "name": "Modern Wall Art",
-        "image":"https://img.freepik.com/free-vector/watercolor-minimal-landscape-covers_52683-59239.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "Abstract canvas painting with vibrant colors.",
-        "material": "Canvas",
-        "color": "Multi-color",
-        "reviews":
-        {
-          "user":"Eugene",
-          "comment":"This is a nice work of work",
-          "ratings":"5"
-        },
-        "dimensions": {
-          "height": "24 inches",
-          "width": "36 inches"
-        },
-        "price": 79.99,
-        "in_stock": 50
-      },
-      {
-        "id":4,
         "name": "Elegant Vase",
         "image":"https://img.freepik.com/free-vector/watercolor-floral-arrangement-collection-generative-ai_191095-417.jpg?size=626&ext=jpg",
         "description": "A decorative ceramic vase with intricate patterns.",
@@ -81,7 +21,7 @@
         "in_stock": 50
       },
       {
-        "id":5,
+        "id":2,
         "name": "Rustic Wall Shelves",
         "image":"https://img.freepik.com/free-psd/wooden-furniture-with-decorative-objects-interior-design-ideas_176382-1521.jpg?size=626&ext=jpg&ga=GA1.2.1642518777.1697055051&semt=ais",
         "description": "Set of wooden shelves for a rustic look.",
@@ -101,7 +41,7 @@
         "in_stock": 50
       },
       {
-        "id":6,
+        "id":3,
         "name": "Glass Mosaic Mirror",
         "image":"https://img.freepik.com/free-vector/artistic-mosaic-background_1035-1628.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
         "description": "A mirror framed with colorful glass mosaic tiles.",
@@ -121,26 +61,7 @@
         "in_stock": 50
       },
       {
-        "id":7,
-        "name": "Candle Holder Set",
-        "image":"https://img.freepik.com/free-photo/elegant-candle-decoration-illuminates-modern-living-room-with-natural-beauty-generated-by-ai_188544-61364.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "metal candle holders in various heights.",
-        "material": "Metal",
-        "color": "Black",
-        "reviews":
-        {
-          "user":"Dan",
-          "comment":"It only holds one candle",
-          "ratings":"3"
-        },
-        "dimensions": {
-          "tallest height": "12 inches"
-        },
-        "price": 19.99,
-        "in_stock": 50
-      },
-      {
-        "id":8,
+        "id":4,
         "name": "Silk Throw Pillows",
         "image":"https://img.freepik.com/premium-photo/2_873925-173456.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
         "description": "Set of silk throw pillows with embroidered designs.",
@@ -160,46 +81,7 @@
         "in_stock": 50
       },
       {
-        "id":9,
-        "name": "Decorative Pottery Bowl",
-        "image":"https://img.freepik.com/free-photo/still-life-with-plants-deco_23-2149192219.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "A hand-painted pottery bowl with intricate patterns.",
-        "material": "Pottery",
-        "color": "Earthenware",
-        "reviews":
-        {
-          "user":"Valeria",
-          "comment":"Adds beauty to my home",
-          "ratings":"5"
-        },
-        "dimensions": {
-          "diameter": "10 inches"
-        },
-        "price": 15.99,
-        "in_stock": 50
-      },
-      {
-        "id":10,
-        "name": "Metal Wall Sculpture",
-        "image":"https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529769.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "Abstract metal wall sculpture with a unique design.",
-        "material": "Metal",
-        "color": "Bronze",
-        "reviews":
-        {
-          "user":"Rasmi Noel",
-          "comment":"This was expensive",
-          "ratings":"4"
-        },
-        "dimensions": {
-          "height": "24 inches",
-          "width": "36 inches"
-        },
-        "price": 69.99,
-        "in_stock": 50
-      },
-      {
-        "id":11,
+        "id":5,
         "name": "Velvet Throw Blanket",
         "image":"https://img.freepik.com/premium-photo/purple-scarf-with-book-cover_655090-80778.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
         "description": "Soft velvet throw blanket in a deep purple color.",
@@ -216,6 +98,124 @@
           "length": "60 inches"
         },
         "price": 27.99,
+        "in_stock": 50
+      },
+      {
+        "id":6,
+        "name": "Metallic Table Lamp",
+        "image":"https://img.freepik.com/free-photo/front-view-black-gold-lamp-designed-decorated-exquisite-white-background_140725-15866.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "Modern table lamp with a metallic finish and fabric shade.",
+        "material": "Metal",
+        "color": "Silver",
+        "reviews":
+        {
+          "user":"Claire",
+          "comment":"This is not that beautiful",
+          "ratings":"4"
+        },
+        "dimensions": {
+          "height": "22 inches"
+        },
+        "price": 59.99,
+        "in_stock": 50
+      },
+      {
+        "id":7,
+        "name": "Decorative Pottery Bowl",
+        "image":"https://img.freepik.com/free-photo/different-shaped-modern-vases_52683-93726.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "A hand-painted pottery bowl with intricate patterns.",
+        "material": "Pottery",
+        "color": "Earthenware",
+        "reviews":
+        {
+          "user":"Gracie",
+          "comment":"I needed this",
+          "ratings":"5"
+        },
+        "dimensions": {
+          "diameter": "10 inches"
+        },
+        "price": 15.99,
+        "in_stock": 50
+      },
+      {
+        "id":8,
+        "name": "Crystal Chandelier",
+        "image":"https://img.freepik.com/free-photo/ceiling-lamps_1203-791.jpg?w=740&t=st=1697055388~exp=1697055988~hmac=498e6755724b228cba42d3a0667fdbd1aaa8b83c5584b6e4f1fa50f15b3fa5c2",
+        "description": "A luxurious crystal chandelier with multiple tiers.",
+        "material": "Crystal",
+        "color": "Clear",
+        "reviews":
+        {
+          "user":"Vivian",
+          "comment":"This is very beautiful",
+          "ratings":"5"
+        },
+        "dimensions": {
+          "height": "24 inches",
+          "diameter": "18 inches"
+        },
+        "price": 199.99,
+        "in_stock": 50
+      },
+      {
+        "id":9,
+        "name": "Woven Basket ",
+        "image":"https://img.freepik.com/free-photo/arrangement-macrame-handmade-object_23-2149064430.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "woven baskets for storage and decor.",
+        "material": "Wicker",
+        "color": "Natural Brown",
+        "reviews":
+        {
+          "user":"Stace",
+          "comment":"Nicely wooven",
+          "ratings":"5"
+        },
+        "dimensions": {
+          "largest width": "18 inches",
+          "depth": "12 inches"
+        },
+        "price": 37.99,
+        "in_stock": 50
+      },
+      {
+        "id":10,
+        "name": "Framed Wall Art Print",
+        "image":"https://img.freepik.com/free-photo/interior-decoration-inspired-by-mexican-folklore_23-2150711395.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "Framed art print of a scenic landscape.",
+        "material": "Paper",
+        "color": "Colorful",
+        "reviews":
+        {
+          "user":"Dennis the Mennis",
+          "comment":"Artistically put together",
+          "ratings":"5"
+        },
+        "dimensions": {
+          "height": "20 inches",
+          "width": "30 inches"
+        },
+        "price": 22.99,
+        "in_stock": 50
+      },
+      {
+        "id":11,
+        "name": "Metal Wall Sculpture",
+        "image":"https://img.freepik.com/free-photo/gold-aesthetic-wallpaper-with-hand-holding-ice-cream_23-2149872239.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "Abstract metal wall sculpture with a unique design.",
+        "material": "Metal",
+        "color": "Bronze",
+        "reviews":
+        {
+          "user":"Yvonne",
+          "comment":"well smelt",
+          "ratings":"4.5"
+        },
+        "dimensions": {
+          "height": "24 inches",
+          "width": "36 inches"
+        },
+        "price": 69.99,
         "in_stock": 50
       },
       {
@@ -240,75 +240,74 @@
       },
       {
         "id":13,
-        "name": "Metallic Table Lamp",
-        "image":"https://img.freepik.com/free-photo/front-view-black-gold-lamp-designed-decorated-exquisite-white-background_140725-15866.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "Modern table lamp with a metallic finish and fabric shade.",
-        "material": "Metal",
-        "color": "Silver",
+        "name": "Decorative Pottery Bowl",
+        "image":"https://img.freepik.com/free-photo/still-life-with-plants-deco_23-2149192219.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "A hand-painted pottery bowl with intricate patterns.",
+        "material": "Pottery",
+        "color": "Earthenware",
         "reviews":
         {
-          "user":"Claire",
-          "comment":"This is not that beautiful",
-          "ratings":"4"
+          "user":"Valeria",
+          "comment":"Adds beauty to my home",
+          "ratings":"5"
         },
         "dimensions": {
-          "height": "22 inches"
+          "diameter": "10 inches"
         },
-        "price": 59.99,
+        "price": 15.99,
         "in_stock": 50
       },
       {
         "id":14,
-        "name": "Woven Basket ",
-        "image":"https://img.freepik.com/free-photo/arrangement-macrame-handmade-object_23-2149064430.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "woven baskets for storage and decor.",
-        "material": "Wicker",
-        "color": "Natural Brown",
+        "name": "Modern Wall Art",
+        "image":"https://img.freepik.com/free-vector/watercolor-minimal-landscape-covers_52683-59239.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "Abstract canvas painting with vibrant colors.",
+        "material": "Canvas",
+        "color": "Multi-color",
         "reviews":
         {
-          "user":"Stace",
-          "comment":"Nicely wooven",
+          "user":"Eugene",
+          "comment":"This is a nice work of work",
           "ratings":"5"
         },
         "dimensions": {
-          "largest width": "18 inches",
-          "depth": "12 inches"
+          "height": "24 inches",
+          "width": "36 inches"
         },
-        "price": 37.99,
+        "price": 79.99,
         "in_stock": 50
       },
       {
         "id":15,
-        "name": "Framed Wall Art Print",
-        "image":"https://img.freepik.com/free-photo/interior-decoration-inspired-by-mexican-folklore_23-2150711395.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "Framed art print of a scenic landscape.",
-        "material": "Paper",
-        "color": "Colorful",
+        "name": "Candle Holder Set",
+        "image":"https://img.freepik.com/free-photo/elegant-candle-decoration-illuminates-modern-living-room-with-natural-beauty-generated-by-ai_188544-61364.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "metal candle holders in various heights.",
+        "material": "Metal",
+        "color": "Black",
         "reviews":
         {
-          "user":"Dennis the Mennis",
-          "comment":"Artistically put together",
-          "ratings":"5"
+          "user":"Dan",
+          "comment":"It only holds one candle",
+          "ratings":"3"
         },
         "dimensions": {
-          "height": "20 inches",
-          "width": "30 inches"
+          "tallest height": "12 inches"
         },
-        "price": 22.99,
+        "price": 19.99,
         "in_stock": 50
       },
       {
         "id":16,
         "name": "Metal Wall Sculpture",
-        "image":"https://img.freepik.com/free-photo/gold-aesthetic-wallpaper-with-hand-holding-ice-cream_23-2149872239.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "image":"https://img.freepik.com/free-photo/elegant-modern-vase-design_23-2150529769.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
         "description": "Abstract metal wall sculpture with a unique design.",
         "material": "Metal",
         "color": "Bronze",
         "reviews":
         {
-          "user":"Yvonne",
-          "comment":"well smelt",
-          "ratings":"4.5"
+          "user":"Rasmi Noel",
+          "comment":"This was expensive",
+          "ratings":"4"
         },
         "dimensions": {
           "height": "24 inches",
@@ -319,21 +318,22 @@
       },
       {
         "id":17,
-        "name": "Decorative Pottery Bowl",
-        "image":"https://img.freepik.com/free-photo/different-shaped-modern-vases_52683-93726.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
-        "description": "A hand-painted pottery bowl with intricate patterns.",
-        "material": "Pottery",
-        "color": "Earthenware",
+        "name": "Antique Clock",
+        "image":"https://img.freepik.com/premium-photo/metallic-frame-with-vintage-machine-gears-cogwheel_948265-11215.jpg?size=626&ext=jpg&ga=GA1.1.1642518777.1697055051&semt=ais",
+        "description": "A vintage-style wooden clock with Roman numerals.",
+        "material": "Wood",
+        "color": "Mahogany",
         "reviews":
         {
-          "user":"Gracie",
-          "comment":"I needed this",
-          "ratings":"5"
+          "user":"mary",
+          "comment":"It is ticking nicely",
+          "ratings":"4.5"
         },
         "dimensions": {
-          "diameter": "10 inches"
+          "height": "16 inches",
+          "width": "10 inches"
         },
-        "price": 15.99,
+        "price": 49.99,
         "in_stock": 50
       }
     ]
