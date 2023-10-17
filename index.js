@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <button id="btn">Add to Cart</button>
             <form id="buy-form">
               <input id="buy" placeholder="Enter Card Number" name="buy" />
-              <input type="submit" value="Buy Now" />
+              <input type="submit" value="Buy Now" id="submitButton"  />
             </form>
           `;
 
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function () {
           buyForm.addEventListener('submit', function (event) {
             event.preventDefault();
             const cardNumber = decorContainer.querySelector('#buy').value;
-            console.log('Card number submitted:', cardNumber);
+            alert("Delivery in a week");
           });
         });
       })
@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
         console.error("Error fetching decor pieces:", error);
       });
   }
-
+  
+  
   fetchDecorPieces();
 });
