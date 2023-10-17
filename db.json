@@ -10,7 +10,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "24 inches",
@@ -29,7 +30,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "16 inches",
@@ -48,7 +50,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "24 inches",
@@ -67,7 +70,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "12 inches",
@@ -86,7 +90,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "length": "36 inches",
@@ -105,7 +110,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "20 inches",
@@ -124,7 +130,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "tallest height": "12 inches"
@@ -142,7 +149,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "width": "18 inches",
@@ -161,7 +169,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "diameter": "10 inches"
@@ -179,7 +188,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "24 inches",
@@ -198,7 +208,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "width": "50 inches",
@@ -217,7 +228,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "12 inches",
@@ -236,7 +248,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "22 inches"
@@ -254,7 +267,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "largest width": "18 inches",
@@ -273,7 +287,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "20 inches",
@@ -292,7 +307,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "height": "24 inches",
@@ -311,7 +327,8 @@
         "reviews":
         {
           "user":"mary",
-          "comment":"This is very beautiful"
+          "comment":"This is very beautiful",
+          "ratings":"5"
         },
         "dimensions": {
           "diameter": "10 inches"
